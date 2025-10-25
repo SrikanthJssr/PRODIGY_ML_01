@@ -44,5 +44,5 @@ By training on the **House Prices: Advanced Regression Techniques** dataset from
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/PRODIGY_ML_01.git
+git clone https://github.com/SrikanthJssr/PRODIGY_ML_01.git
 cd PRODIGY_ML_01
